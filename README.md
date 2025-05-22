@@ -14,7 +14,7 @@ flash memory or permanent memory.
 This commands includes
 <BR>
 • Configuring the Router commands
-<BR>
+<BR>coc
 • General Commands to configure network
 <BR>
 • Privileged Mode commands of a router 
@@ -27,6 +27,18 @@ This commands includes
 <BR>
 
 ## Output
+## netstat
+![image](https://github.com/user-attachments/assets/20ee7c17-cc03-4a51-b928-832bfb6fc01d)
+
+
+## hostname
+![image](https://github.com/user-attachments/assets/ed26442b-0deb-420d-af00-54b160a56372)
+
+## nslookup
+![image](https://github.com/user-attachments/assets/aad70b62-7f94-4495-bae1-a6afd72a387e)
+
+## ping
+![image](https://github.com/user-attachments/assets/f27f7c10-92f3-460e-b6e1-d6829e468878)
 
 ## Result
 Thus Execution of Network commands Performed 
